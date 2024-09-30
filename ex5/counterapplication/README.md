@@ -28,3 +28,11 @@ How to Use
   Click the + button to increment the counter.
   Click the - button to decrement the counter.
   The counter's current value is updated and displayed dynamically.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2dd7a613-4a69-45ed-8492-12050b7b0346)
+
