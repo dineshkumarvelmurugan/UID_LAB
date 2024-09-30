@@ -1,6 +1,5 @@
 Simple Counter Application
-
-     This is a simple web application that allows users to increment or decrement a counter value with button clicks. The app is built with JavaScript/React to demonstrate basic state management and user interaction.
+   This is a simple web application that allows users to increment or decrement a counter value with button clicks. The app is built with JavaScript/React to demonstrate basic state management and user interaction.
 
 Features
 
